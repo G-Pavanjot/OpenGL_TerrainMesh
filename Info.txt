@@ -1,0 +1,35 @@
+Name: Pavanjot Gill
+Student #: 1205737
+MacID: gillps4
+
+Commands:
+q - quit
+w - wireframe toggle
+r - reset
++ - increase size
+- - decrease size
+s - shademodel change
+l - light toggle
+0 - select light0 to move
+1 - select light1 to move
+t - increase x pos of selected light
+y - decrease x pos of selected light
+u - increase y pos of selected light
+i - decrease y pos of selected light
+o - increase z pos of selected light
+p - decrease z pos of selected light
+
+left - rotate about y axis
+right - rotate about y axis
+down - rotate about x axis
+up - rotate about x axis
+
+c - custom terrain mode
+
+
+when in custom terrain mode, user clicks on the 2D overview to create the points used to create a custom line for the fault algorithm
+
+Sources: 
+Sample Code from avenue
+Fernandes, António. "Terrain Tutorial." OpenGL @ Lighthouse 3D -. António Ramires Fernandes. Web. 26 Nov. 2014. <http://www.lighthouse3d.com/opengl/terrain/index.php3?normals>
+Fernandes, António. "Terrain Tutorial." OpenGL @ Lighthouse 3D -. António Ramires Fernandes. Web. 23 Nov. 2014. <http://www.lighthouse3d.com/opengl/terrain/index.php?impdetails>
